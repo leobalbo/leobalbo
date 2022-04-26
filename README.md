@@ -1,6 +1,6 @@
 <h2 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Leonardo Balbo</h2><br>
  
-## 🚀 Tecnologias que estou estudando
+## 🚀 Estudando sobre:
 <div style="display: inline_block"><br>
   <img align="center" alt="kone-LUA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg">
   <img align="center" alt="kone-LUA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
