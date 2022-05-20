@@ -1,4 +1,4 @@
-<h2 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Leonardo Balbo</h2><br>
+<h2 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">, I'm Leonardo Balbo</h2><br>
  
 ## 🚀 Estudando sobre:
 <div style="display: inline_block"><br>
