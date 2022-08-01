@@ -12,19 +12,19 @@
 ## 📊 GitHub Analytics
 
 <a href="http://www.github.com/leobalbo">
- <img height="120em" src="https://github-readme-stats.vercel.app/api?username=leobalbo&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="Leonardo's GitHub stats" />
-</a>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leobalbo&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="Leonardo's GitHub stats" />
+</a><br>
 
 <a href="http://www.github.com/leobalbo">
- <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leobalbo&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages"/>
-</a>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leobalbo&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages"/>
+</a><br>
 
 <a href="http://www.github.com/leobalbo">
- <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=leobalbo&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+ <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=leobalbo&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a><br>
 
 <a href="http://www.github.com/leobalbo">
- <img height="331em" src="https://activity-graph.herokuapp.com/graph?username=leobalbo&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+ <img height="331em" src="https://activity-graph.herokuapp.com/graph?username=leobalbo&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /><br>
 </a>
 
 <!--  ![Snake animation](https://github.com/leobalbo/leobalbo/blob/output/github-contribution-grid-snake.svg) -->
