@@ -20,7 +20,7 @@
 </a>
 
 <a href="http://www.github.com/leobalbo">
- <img height="117em" src="https://github-readme-streak-stats.herokuapp.com/?user=leobalbo&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+ <img height="116em" src="https://github-readme-streak-stats.herokuapp.com/?user=leobalbo&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
 <a href="http://www.github.com/leobalbo">
