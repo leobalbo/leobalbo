@@ -16,7 +16,7 @@
 </a><br>
 
 <a href="http://www.github.com/leobalbo">
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leobalbo&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leobalbo&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages"/>
 </a><br>
 
 <a href="http://www.github.com/leobalbo">
