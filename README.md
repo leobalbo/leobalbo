@@ -29,4 +29,4 @@
  <img height="331em" src="https://activity-graph.herokuapp.com/graph?username=leobalbo&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /><br>
 </a>
 
-<!--  ![Snake animation](https://github.com/leobalbo/leobalbo/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/leobalbo/leobalbo/blob/output/github-contribution-grid-snake.svg)
