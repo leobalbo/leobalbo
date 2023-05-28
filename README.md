@@ -20,5 +20,5 @@
 </a>
 
 <a href="http://www.github.com/leobalbo">
- <img height="340em" src="https://github-readme-activity-graph.vercel.app/graph?username=leobalbo&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /><br>
+ <img height="335em" src="https://github-readme-activity-graph.vercel.app/graph?username=leobalbo&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /><br>
 </a>
