@@ -6,7 +6,6 @@
  <img align="center" alt="PYTHON" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="NODEJS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="JAVASCRIPT" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="DOCKER" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"> 
 </div><br>
 
 ## 📊 GitHub Analytics
